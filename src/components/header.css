@@ -1,0 +1,43 @@
+.headers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header{
+    background-color: #FFF2E1;
+}
+
+.links{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+}
+
+.btn{
+    padding: 10px 20px;
+    border: none;
+    width: 120px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.bttn{
+    padding: 10px 20px;
+    border: none;
+    width: 120px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-size: 18px;
+    background-color: #F48C06;
+    color: #fff;
+}

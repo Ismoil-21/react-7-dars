@@ -1,11 +1,11 @@
-
+import Header from './components/Header.jsx'
 import './App.css'
 
 function App() {
 
   return (
     <div>
-      <h1>component boshladm</h1>
+      <Header/>
     </div>
   )
 }
