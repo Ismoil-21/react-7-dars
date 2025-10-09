@@ -1,0 +1,24 @@
+.trusted{
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.h5{
+    text-align: center;
+    font-size: 16px;
+    color: #696984;
+}
+
+.hh1{
+    text-align: center;
+    color: #2F327D;
+    margin: 40px 0;
+}
+
+.pp{
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+    color: #696984;
+    font-size: 16px;
+}
