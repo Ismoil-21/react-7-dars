@@ -22,3 +22,92 @@
     color: #696984;
     font-size: 16px;
 }
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+
+.card1{
+    background: url("https://www.cei.se/media/wysiwyg/elearn-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 60px 30px;
+    border-radius: 20px;
+}
+
+.card2{
+    background: url("https://wenr.wes.org/wp-content/uploads/2025/02/0225-wenr-india-740x440-v1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 60px 30px;
+    border-radius: 20px;
+}
+
+.enter_btn{
+    width: 140px;
+    height: 50px;
+    border: 1px solid #23BDEEE5;
+    background-color: #23BDEEE5;
+    border-radius: 30px;
+    margin-top: 20px;
+    color: white;
+    transition: 0.2s;
+}
+.enter_btn:hover{
+    background-color: transparent;
+    color: #23BDEEE5;
+    border: 1px solid #23BDEEE5;
+    transform: translateY(-8%);
+}
+
+.for{
+    color: white;
+}
+
+.start_btn{
+    width: 140px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 30px;
+    margin-top: 20px;
+    color: white;
+    transition: 0.2s;
+}
+.start_btn:hover{
+    background-color: #23BDEEE5;
+    border: 1px solid #23BDEEE5;
+    transform: translateY(-8%);
+}
+
+.yozish{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0;
+}
+
+.textss{
+    width: 450px;
+}
+
+.hh3{
+    font-weight: 600;
+    font-size: 24px;
+    color: #2F327D;
+}
